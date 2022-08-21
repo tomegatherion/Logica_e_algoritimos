@@ -128,27 +128,3 @@ for chave, valor in gatinhos.items():
     print(chave, "->", valor)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
